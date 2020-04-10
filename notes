@@ -1,0 +1,7 @@
+- plugins removed
+filterizr
+
+removed from angular.json scripts
+// "src/assets/dist/js/pages/dashboard.js",
+// "src/assets/dist/js/pages/dashboard2.js",
+// "src/assets/dist/js/pages/dashboard3.js",
