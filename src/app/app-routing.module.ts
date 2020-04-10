@@ -5,6 +5,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
   { path: '', redirectTo: '', pathMatch: 'full' },
+  // { path: 'homepage', loadChildren: () => import('./modules/user-management/user-management.module').then(m => m.UserManagementModule) },
   // { path: 'dashboard', component: DashboardComponent },
   // WILDCARD ROUTE
   // { path: '**', component: PageNotFoundComponent }

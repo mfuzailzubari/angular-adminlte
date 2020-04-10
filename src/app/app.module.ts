@@ -7,6 +7,7 @@ import { PagesModule } from './modules/pages/pages.module';
 
 // Components
 import { AppComponent } from './app.component';
+import { UserManagementModule } from './modules/user-management/user-management.module';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     PagesModule,
+    UserManagementModule,
     AppRoutingModule,
   ],
   providers: [],
