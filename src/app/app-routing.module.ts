@@ -5,7 +5,7 @@ import { LoginComponent } from './modules/user-management/login/login.component'
 
 
 const routes: Routes = [
-  // { path: '', redirectTo: 'login', pathMatch: 'full' },
+  // { path: '', redirectTo: '', pathMatch: 'full' },
   // { path: '', loadChildren: () => import('./modules/user-management/user-management.module').then(m => m.UserManagementModule) },
   // { path: 'homepage', loadChildren: () => import('./modules/user-management/user-management.module').then(m => m.UserManagementModule) },
   // { path: 'login', component: LoginComponent },

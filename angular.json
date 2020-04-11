@@ -38,11 +38,10 @@
               "src/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
               "src/assets/plugins/daterangepicker/daterangepicker.css",
               "src/assets/plugins/summernote/summernote-bs4.css",
-
-
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/moment/moment.js",
               "src/assets/plugins/jquery-ui/jquery-ui.min.js",
               "src/assets/dist/js/adminlte.min.js",
               "src/assets/dist/js/demo.js",
@@ -53,12 +52,10 @@
               "src/assets/plugins/daterangepicker/daterangepicker.js",
               "src/assets/plugins/moment/moment.min.js",
               "src/assets/plugins/jquery-knob/jquery.knob.min.js",
-              "src/assets/plugins/jqvmap/maps/jquery.vmap.usa.js",
-              "src/assets/plugins/jqvmap/jquery.vmap.min.js",
+
               "src/assets/plugins/sparklines/sparkline.js",
               "src/assets/plugins/chart.js/Chart.min.js",
 
-              "src/assets/dist/js/pages/dashboard.js"
             ]
           },
           "configurations": {
