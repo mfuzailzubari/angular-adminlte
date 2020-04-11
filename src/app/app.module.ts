@@ -15,8 +15,8 @@ import { UserManagementModule } from './modules/user-management/user-management.
   ],
   imports: [
     BrowserModule,
-    PagesModule,
     UserManagementModule, 
+    PagesModule,
     AppRoutingModule,
   ],
   providers: [],
