@@ -37,7 +37,7 @@
               "src/assets/plugins/jqvmap/jqvmap.min.css",
               "src/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
               "src/assets/plugins/daterangepicker/daterangepicker.css",
-              "src/assets/plugins/summernote/summernote-bs4.css",
+              "src/assets/plugins/summernote/summernote-bs4.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
@@ -54,7 +54,7 @@
               "src/assets/plugins/jquery-knob/jquery.knob.min.js",
 
               "src/assets/plugins/sparklines/sparkline.js",
-              "src/assets/plugins/chart.js/Chart.min.js",
+              "src/assets/plugins/chart.js/Chart.min.js"
 
             ]
           },
